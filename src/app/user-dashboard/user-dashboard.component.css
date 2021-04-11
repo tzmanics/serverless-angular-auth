@@ -1,12 +1,12 @@
 .user-dashboard {
+  font-size: 40px;
   margin: 0 auto;
+  text-align: center;
   width: 80%;
 }
 .user-dashboard p {
   font-family: 'Poiret One', sans-serif;
-  font-size: 40px;
   margin: 50px;
-  text-align: center;
 }
 .user-dashboard h1 {
   font-family: 'Poiret One', sans-serif;
