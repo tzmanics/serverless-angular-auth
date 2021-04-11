@@ -27,7 +27,7 @@ module.exports = function (config) {
     coverageReporter: {
       dir: require('path').join(
         __dirname,
-        './coverage/serverless-angular-starter'
+        './coverage/serverless-angular-auth'
       ),
       subdir: '.',
       reporters: [{ type: 'html' }, { type: 'text-summary' }],
